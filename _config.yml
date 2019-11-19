@@ -1,0 +1,84 @@
+# Site settings
+title:  个人专用
+SEOTitle:  暗号防空洞百度云
+header-img: img/post-bg-beijing.jpg
+email: 1796001572@qq.com
+description: "Every failure is leading towards success."
+keyword: "暗号防空洞, 百度云"
+url: "http://qisqifen.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/qisqifen/qisqifen.github.io.git" # you code repository
+
+
+
+
+
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 30
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+# 统计
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: ce3fdab1341876aa9908cc931c0fddf2
+
+# Google Analytics
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx 暂时注释化
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。暂时注释化
+
+
+
+
+
+# Featured Tags
+#featured-tags: fault                     # 是否使用首页标签
+#featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "微信求片",
+        href: "/img/weixin.png"
+    },{
+        title: "豆瓣电影",
+        href: "https://movie.douban.com/"
+    },{
+        title: "软件下载",
+        href: "https://www.lanzous.com/b570130"
+    }
+]
