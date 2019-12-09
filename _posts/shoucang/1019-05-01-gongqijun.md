@@ -8,8 +8,8 @@ tags:
     - 收藏版
 ---
 
-### [百度云链接](https://mubu.com/doc/ApIPbbtPr1)
-### [密码](https://www.510ka.com/details/1G0O1CEJ)
+### [百度云链接](https://mubu.com/doc/5fhwwN1qrEh)
+### [密码](https://www.510ka.com/details/35E161CF)
 ### 目录
 ```
 1984 风之谷.Nausicaa.Of.The.Valley.Of.The.Wind.BluRay.1080p.x265.10bit.4Audio.mkv [8.3G]

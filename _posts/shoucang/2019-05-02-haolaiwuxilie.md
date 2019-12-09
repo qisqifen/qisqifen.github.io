@@ -15,14 +15,14 @@ tags:
 ```
 电锯惊魂系列
   ├Saw.2004.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.89GB]
-  ├Saw.8：竖ju.mp4 2.07GB]
+  ├Saw.8：竖ju.mp4 [2.07GB]
   ├Saw.II.2005.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.58GB]
   ├Saw.III.2006.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [4.31GB]
   ├Saw.IV.2007.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.62GB]
   ├Saw.V.2008.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.60GB]
   ├Saw.VI.2009.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.47GB]
   └Saw.VII.2010.BD.1080P.x265.10bit.AAC5.1.English.内封特效中英双字.mkv [3.42GB]
-死神来了（Final Destination）系列
+死神来了系列
   ├01.Final.Destination.2000.BD1080P.X264.AAC.Mandarin&English.CHS-ENG.OFA.mp4 [4.37GB]
   ├02.Final.Destination.2.2003.BD1080P.X264.AAC.Mandarin&English.CHS-ENG.OFA.mp4 [4.02GB]
   ├03.Final.Destination.3.2006.BD1080P.X264.AAC.Mandarin&English.CHS-ENG.OFA.mp4 [4.14GB]
@@ -66,7 +66,8 @@ X战警系列
   ├Rambo.Extended.Cut.2008.BluRay.1080p.2Audio.DTS-HD.MA.5.1.x264.mkv [13.84GB]
   ├Rambo.FIRST.BLOOD.1982.BluRay.1080p.2Audio.DTS-HD.MA.5.1.x264.mkv [9.14GB]
   ├Rambo.FIRST.BLOOD.II.1985.BluRay.1080p.2Audio.DTS-HD.MA.5.1.x264.mkv [10.29GB]
-  └Rambo.FIRST.BLOOD.III.1988.BluRay.1080p.2Audio.DTS-HD.MA.5.1.x264.mkv [11.53GB]
+  ├Rambo.FIRST.BLOOD.III.1988.BluRay.1080p.2Audio.DTS-HD.MA.5.1.x264.mkv [11.53GB]
+  └第一滴血5.BDRIP.1080P.H264.DTS/AAC蓝光版特效中英双字.mkv [8.71GB]
   ├Rambo.First.Blood.Part.II.1985.BluRay.720p.x264.AAC.2Audio.中英双字.mp4 [2.02GB]
   ├Rambo.IV.2008.720P.Bluray.x264.AAC.2Audio.中英双字.mp4 [2.13GB]
   ├RamboFirst.Blood.1982.Bluray.720p.x264.AAC.2Audio.中英双字.mp4 [1.98GB]
@@ -238,7 +239,7 @@ X战警系列
   ├Solo.A.Star.Wars.Story.2018.BD1080P.X264.AAC.English&Mandarin.CHS-ENG.DWRMP4.mp4 [7.09GB]
   ├Star.Wars.Episode.I.The.Phantom.Menace.1999.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [6.10GB]
   ├Star.Wars.Episode.II.Attack.of.the.Clones.2002.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [6.34GB]
-  ├Star.Wars.Episode.III.Revenge.of.the.Sith.2005.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [6].24GB]
+  ├Star.Wars.Episode.III.Revenge.of.the.Sith.2005.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [6.24GB]
   ├Star.Wars.Episode.IV.A.New.Hope.1977.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [5.56GB]
   ├Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [5.69GB]
   ├Star.Wars.Episode.VI.Return.of.the.Jedi.1983.BluRay.1080p.x265.HEVC.10bit.AC3.2Audios.中英字幕.mp4 [5.99GB]
@@ -279,10 +280,10 @@ X战警系列
 侏罗纪系列
   ├Jurassic.Park.1993.BD1080P.国英双语.高清中英双字.mp4 [5.27GB]
   ├Jurassic.Park.II.The.Lost.World.1997.BD1080P.国英双语.高清中英双字.mp4 [4.05GB]
-  ├Jurassic.Park.III.2001.BD1080P.国英双语.高清中英双字.mp4 3.07GB]
+  ├Jurassic.Park.III.2001.BD1080P.国英双语.高清中英双字.mp4 [3.07GB]
   ├Jurassic.World.2015.BD.1080P.x265.10bit.DD5.1.英国双语.内封特效中英.mkv [5.03GB]
   └Jurassic.World.Fallen.Kingdom.2018.1080p.BluRay.HEVC.10bit.mkv [2.28GB]
-詹姆斯邦德007系列全集-铁金刚系列全集
+詹姆斯邦德007系列全集
   ├007外传之皇家赌场.Casino.Royale.1967.BluRay.1080p.x265.10bit.mkv [4.86GB]
   ├007外传之巡弋飞弹.Never.Say.Never.Again.1983.BluRay.1080p.x265.10bit.2Audio.mkv [8.05GB]
   ├007系列之01诺博士.Dr.No.1962.BluRay.1080p.x265.10bit.2Audio.mkv [7.08GB]

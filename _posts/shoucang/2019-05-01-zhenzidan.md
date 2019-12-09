@@ -31,6 +31,7 @@ tags:
 1998 杀杀人，跳跳舞 [2.1GB]
 2002 英雄.Hero.2002.BluRay.1080p.x265.10bit.2Audio.mkv [5.01GB]
 2002 刀锋战士Ⅱ.1080P.mkv [7.95GB]
+2003 上海正午2：上海骑士.Shanghai.Knights.BluRay.1080p.DTS.x264-CHD.mkv [10GB]
 2004 恋情告急.WEB-4K.X264.AAC.Cantonese.CHS.mp4 [4.4GB]
 2005 杀破狼.1080P.国粤双语中字.mkv [3GB]
 2005 七剑(国粤)Seven.Swords.BluRay.720p.x264.2Audio.AC3[中文字幕4.8G].mkv
