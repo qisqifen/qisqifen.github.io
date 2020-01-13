@@ -62,7 +62,7 @@ tags:
 1987 龙虎风云 国粤双语 [2.68GB]
 1987 江湖情 粤语 [2.37GB]
 1987 精装追女仔 The.Romancing.Star.BluRay.720p.x264.2Audio.AC3.mkv [3.22GB]
-1987 秋天的童话 粤语 [2.19GB]
+1987 秋天的童话.粤语原盘.BluRay REMUX 1080p.AVC.TureHD7.1 DD5.1-CHD.ts [18.6GB]
 1987 监狱风云 国粤双语 [2.77GB]
 1987 江湖情之英雄好汉.Black.Vengeance.720p.BluRay.x264.mkv [6.44GB]
 1987 鬼新娘 国粤双语 [3.77GB]
