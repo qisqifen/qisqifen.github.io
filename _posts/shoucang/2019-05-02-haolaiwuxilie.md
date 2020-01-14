@@ -11,11 +11,6 @@ tags:
 
 ### [百度云链接](https://mubu.com/doc/iaENAL_pR1)
 ### [密码](https://www.510ka.com/details/15E255AC)
-<details>
-<summary></summary><pre>
-
-</pre></details>
-
 <details><summary>变形金刚系列全集</summary><pre>
 Transformers 1.2007.BD1080P.特效中英双字.MinHD.mp4 [3.64GB]
 Transformers 1.2007.UHD.2160P.x265.SDR.10Bit.AC3.英国导.3Audio.内封特效中英.mkv [7.29GB]

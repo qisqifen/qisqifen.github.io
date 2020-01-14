@@ -10,12 +10,6 @@ tags:
 ---
 ### [百度云链接](https://mubu.com/doc/C63X95XGh1)
 ### [密码](https://www.510ka.com/details/A20F2DE7)
-<details><summary>
-
-</summary><pre>
-
-</pre></details>
-
 <details><summary>复仇者联盟系列合集</summary><pre>
 复仇者联盟.2012.BluRay.1080p.x265.10bit.2Audio.mkv [7.19GB]
 复仇者联盟4.HD高清.mp4  [5.44GB]
