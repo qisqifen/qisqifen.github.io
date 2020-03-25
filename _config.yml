@@ -2,7 +2,7 @@
 title:  个人专用
 SEOTitle:  暗号防空洞百度云
 header-img: img/post-bg-beijing.jpg
-#email: 
+#email:
 description: "Every failure is leading towards success."
 keyword: "暗号防空洞, 百度云"
 url: "http://qisqifen.github.io"          # your host, for absolute URL
@@ -19,7 +19,7 @@ github_repo: "https://github.com/qisqifen/qisqifen.github.io.git" # you code rep
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 25
+paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
