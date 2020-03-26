@@ -1,11 +1,10 @@
 ---
 layout:     post
-title:      收藏版-好莱坞系列全集电影超清
+title:      好莱坞系列全集电影超清收藏
 date:       2019-04-01 00:00:03
 author:     yu
 category: oumei
 tags:
-    - 收藏版
     - 欧美
 ---
 

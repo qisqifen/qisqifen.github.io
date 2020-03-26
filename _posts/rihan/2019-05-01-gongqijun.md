@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      收藏版-宫崎骏动画电影全集超清
+title:      宫崎骏动画电影全集超清收藏
 date:       2019-04-01
 author:     yu
 category: gangtai
 tags:
-    - 收藏版
+    - 日韩
 ---
 
 ### [百度云链接](https://mubu.com/doc/5fhwwN1qrEh)

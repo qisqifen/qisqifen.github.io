@@ -1,11 +1,10 @@
 ---
 layout:     post
-title:      收藏版-漫威宇宙系列合集超清
+title:      漫威宇宙系列合集超清收藏
 date:       2019-04-01 00:00:03
 author:     yu
 category: oumei
 tags:
-    - 收藏版
     - 欧美
 ---
 ### [百度云链接](https://mubu.com/doc/C63X95XGh1)
