@@ -1,60 +1,9 @@
----
-layout: page
-description: "private site"
----
-<div id="searchbar">
-<form method="get" id="searchform" action="//www.bing.com/search?q=site%3Anstaotao.com&ensearch=1&FORM=BESBTB">
-    <input class="swap_value" id="haosou" placeholder="请输入片名查找"  onkeydown="if(event.keyCode==13){return Search('haosou');}">
-    <button type="submit" id="searchsubmit" onClick="return Search('haosou');">搜索</button>
-</form>
-</div>
-<script type="text/javascript">
-function Search(type){
-    if (type=="haosou") {
-        var value=$("#haosou").val()||"";
-        window.open("https://www.bing.com/search?q="+value+"+site%3Anstaotao.com&ensearch=1&FORM=BESBTB");
-    }
-    return false;
-}
-</script><!-- 必应搜索-->
+<html>
 
+<head>
 
+<meta http-equiv="refresh"content="0;url=https://ns.nstaotao.com">
 
+</head>
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-<!--       <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
-        </div> -->
-    </a>
-<!--    <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on   {{ post.date | date: "%B %-d, %Y" }}
-    </p>-->
-</div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 上一页</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页 &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+</html>
